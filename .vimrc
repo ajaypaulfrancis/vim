@@ -4,5 +4,4 @@ let mapleader = " "
 set clipboard^=unnamed,unnamedplus
 set encoding=UTF-8
 syntax on
-filetype plugin indent on
 set number relativenumber
